@@ -1,0 +1,23 @@
+{
+    "name": "lucilia.seraidarian/busca_cep",
+    "description": "Busca de CEP online",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "LuciliaSeraidarian\\BuscaCep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucilia Seraidarian",
+            "email": "lucilia.seraidarian@ps1it.com.br"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
