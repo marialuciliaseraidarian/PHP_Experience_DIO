@@ -1,0 +1,5 @@
+Search
+ [x] Get address from zipcode default usage with data set "Endereço Praça da Sé"
+ [x] Get address from zipcode default usage with data set "Endereço Praça Doutor João Mendes"
+ [x] Get address from zipcode default usage with data set "Endereço Rua Luís Asson"
+

@@ -13,6 +13,7 @@
         }
     ],
     "require": {
-        "mpdf/mpdf": "^8.1"
+        "mpdf/mpdf": "^8.1",
+        "wead/cep-gratis": "^2.0"
     }
 }
