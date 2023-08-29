@@ -13,6 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'Usuario@cadastrar'); // Rota para exibir o formulário de cadastro
+Route::post('/', 'Usuario@salvar');   // Rota para processar o formulário de cadastro
+
